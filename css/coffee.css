@@ -1,0 +1,28 @@
+*{padding: 0px; margin: 0px; box-sizing: border-box;}
+.logo{
+    width: 100%;
+    background: #0f9cda;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.logo span{
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;  
+}
+
+.form-inline .btn-outline-success{
+    color: #0f9cda;
+    background: #ffffff;
+    border-color: #0f9cda;
+}
+
+.form-inline .btn-outline-success:hover{
+    background: #0f9cda;
+    border-color: #0f9cda;
+}
+
+.fa, .fas{
+    color: #0f9cda;
+}
